@@ -1,0 +1,1 @@
+# nuxt-load-when-visible
